@@ -1,1 +1,7 @@
-file1: path/to/file1 # Add your own files that will be used in the pipeline
+REFERENCE: /lustre/nobackup/WUR/ABGC/shared/public_data_store/genomes/chicken/Ensembl95/Gallus_gallus.GRCg6a.dna.toplevel.fa
+
+QUERY: /lustre/nobackup/WUR/ABGC/moiti001/results/polished_assembly_R2/pilon.fasta
+
+OUTDIR: /lustre/nobackup/WUR/ABGC/moiti001/results/align_chicken_polished_R2
+
+PREFIX: polishedR2_Gal6
